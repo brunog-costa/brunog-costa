@@ -83,18 +83,9 @@ Feel free to reach out!
 
 ## My Stats :
 
-###
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunog-costa&show_icons=true&theme=tokyonight" />
-</a>
-<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunog-costa&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=brunog-costa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
