@@ -15,12 +15,13 @@
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
 </div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=brunog-costa.brunog-costa&"  />
 </div>
+
+###
+
+
 
 ###
 
@@ -28,19 +29,20 @@
 
 ###
 
-<p align="left">Hey hey! <br><br>My name is Bruno, i'm a Cloud Security Analyst focused on developing detective/predictive controls. <br><br>Feel free to reach out!</p>
+Hey hey!<br>
+My name is Bruno, i'm a Cloud Security Analyst focused on developing detective/predictive controls. 
 
-###
+Feel free to reach out!
 
-<h3 align="left">About Me</h3>
+## About Me
 
-###
+- 💻 Working in a series of articles about IaC for  homelab 
+- 🎓 BSc in Computer Engineering 
+- ☕ Learning about automation orchestration with Kestra
+- ⚡ In my free time i cossplay as a sysadmin
 
-<p align="left">- 💻 Working in a series of articles about IaC for  homelab <br>- 🎓 BSc in Computer Engineering <br>- ☕ Learning about automation orchestration with Kestra<br>- ⚡ In my free time i cossplay as a sysadmin</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+## Utility Belt 
 
 ###
 
@@ -68,23 +70,26 @@
 
 ###
 
-<h3 align="left">Projects</h3>
+## Projects
+
+* Automate All The Things:
+  [AWS-IPSet-Automation](https://github.com/brunog-costa/aws-ipset-automation) - Automaticly create and maintain AWS WAF IPsets with reverse whois lookups and lambda
+
+* DevSecOps Pentesting:
+  [PassWithoutTrace](https://github.com/brunog-costa/PassWithoutTrace) - D&D Themed Pipeline Abuse Script 
+
+
+* CTF Writeups:
+
+## My Stats :
 
 ###
-
-<h4 align="left">Automate All The Things:</h4>
-
-###
-
-<h4 align="left">DevSecOps Pentesting:</h4>
-
-###
-
-<h4 align="left">CTF Writeups:</h4>
-
-###
-
-<h3 align="left">My Stats :</h3>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunog-costa&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunog-costa&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
 
 ###
 
