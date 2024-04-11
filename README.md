@@ -32,7 +32,7 @@
 Hey hey!<br>
 My name is Bruno, i'm a Cloud Security Analyst focused on developing detective/predictive controls. 
 
-Feel free to reach out!
+###
 
 ## About Me
 
@@ -42,7 +42,7 @@ Feel free to reach out!
 - ⚡ In my free time i cossplay as a sysadmin
 
 
-## Utility Belt 
+## Utility Belt: 
 
 ###
 
@@ -69,9 +69,10 @@ Feel free to reach out!
 </div>
 
 ###
-#
+
 ## Projects
 
+###
 * Automate All The Things:<br>
     * [AWS-IPSet-Automation](https://github.com/brunog-costa/aws-ipset-automation) - Automaticly create and maintain AWS WAF IPsets with reverse whois lookups and lambda
 
@@ -88,7 +89,8 @@ Feel free to reach out!
 * IoT Shenanigans:<br>
     * [Simple ESP32 HTTP Server](https://github.com/brunog-costa/simple-esp-http-server/) - Simple System on a chip for measuring solar panel energetic capacity 
 
-#
+###
+
 ## My Stats:
 
 <div align="left">
