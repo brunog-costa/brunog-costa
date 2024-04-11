@@ -42,7 +42,7 @@ My name is Bruno, i'm a Cloud Security Analyst focused on developing detective/p
 - ⚡ In my free time i cossplay as a sysadmin
 
 
-## Utility Belt: 
+## Utility Belt
 
 ###
 
@@ -70,7 +70,7 @@ My name is Bruno, i'm a Cloud Security Analyst focused on developing detective/p
 
 ###
 
-## Projects:
+## Projects
 
 ###
 * Automate All The Things:<br>
@@ -91,7 +91,7 @@ My name is Bruno, i'm a Cloud Security Analyst focused on developing detective/p
 
 ###
 
-## My Stats:
+## My Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=brunog-costa&show_icons=true&theme=tokyonight" />
