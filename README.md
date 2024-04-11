@@ -70,7 +70,7 @@ My name is Bruno, i'm a Cloud Security Analyst focused on developing detective/p
 
 ###
 
-## Projects
+## Projects:
 
 ###
 * Automate All The Things:<br>
