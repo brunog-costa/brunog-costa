@@ -69,27 +69,27 @@ Feel free to reach out!
 </div>
 
 ###
-
+#
 ## Projects
 
 * Automate All The Things:<br>
-  [AWS-IPSet-Automation](https://github.com/brunog-costa/aws-ipset-automation) - Automaticly create and maintain AWS WAF IPsets with reverse whois lookups and lambda
+    * [AWS-IPSet-Automation](https://github.com/brunog-costa/aws-ipset-automation) - Automaticly create and maintain AWS WAF IPsets with reverse whois lookups and lambda
 
 * DevSecOps Pentesting:<br>
-  [Pass WithoutT race](https://github.com/brunog-costa/PassWithoutTrace) - D&D Themed Pipeline Abuse Script 
+    * [Pass WithoutT race](https://github.com/brunog-costa/PassWithoutTrace) - D&D Themed Pipeline Abuse Script 
 
-  [Havoc C2 - Automation Scripts](https://github.com/brunog-costa/havoc-c2) - Client scripts for pentesting automation using the havoc c2
+    * [Havoc C2 - Automation Scripts](https://github.com/brunog-costa/havoc-c2) - Client scripts for pentesting automation using the havoc c2
 
-  [GoPhish Turbo](https://github.com/brunog-costa/GoPhishTurbo) - Using MISP feed and GoPhish for testing the accuracy of mail/endpoint security solutions
+    * [GoPhish Turbo](https://github.com/brunog-costa/GoPhishTurbo) - Using MISP feed and GoPhish for testing the accuracy of mail/endpoint security solutions
 
 * Writeups:<br>
-  [Courses WriteUp](https://github.com/brunog-costa/courses-writeups) - Open wiki for knoledge sharing infosec information
+    * [Courses WriteUp](https://github.com/brunog-costa/courses-writeups) - Open wiki for knoledge sharing infosec information
 
 * IoT Shenanigans:<br>
-  [Simple ESP32 HTTP Server](https://github.com/brunog-costa/simple-esp-http-server/) - Simple System on a chip for measuring solar panel energetic capacity 
+    * [Simple ESP32 HTTP Server](https://github.com/brunog-costa/simple-esp-http-server/) - Simple System on a chip for measuring solar panel energetic capacity 
 
-
-## My Stats :
+#
+## My Stats:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=brunog-costa&show_icons=true&theme=tokyonight" />
